@@ -1,0 +1,7 @@
+{
+  "name": "tabs-baby",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
